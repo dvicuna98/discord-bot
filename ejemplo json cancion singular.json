@@ -1,0 +1,83 @@
+{
+    "album": {
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0tenBmuzRDNG5Qn0a295jB"
+          },
+          "href": "https://api.spotify.com/v1/artists/0tenBmuzRDNG5Qn0a295jB",
+          "id": "0tenBmuzRDNG5Qn0a295jB",
+          "name": "Helios Relaxing Space",
+          "type": "artist",
+          "uri": "spotify:artist:0tenBmuzRDNG5Qn0a295jB"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "ZW"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6GLFwwQqYDJank8fbXuVwr"
+      },
+      "href": "https://api.spotify.com/v1/albums/6GLFwwQqYDJank8fbXuVwr",
+      "id": "6GLFwwQqYDJank8fbXuVwr",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d33183fafa582f53e59e473d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d33183fafa582f53e59e473d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d33183fafa582f53e59e473d",
+          "width": 64
+        }
+      ],
+      "name": "Wishing You",
+      "release_date": "2021-05-31",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:6GLFwwQqYDJank8fbXuVwr"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0tenBmuzRDNG5Qn0a295jB"
+        },
+        "href": "https://api.spotify.com/v1/artists/0tenBmuzRDNG5Qn0a295jB",
+        "id": "0tenBmuzRDNG5Qn0a295jB",
+        "name": "Helios Relaxing Space",
+        "type": "artist",
+        "uri": "spotify:artist:0tenBmuzRDNG5Qn0a295jB"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "MN"
+    ],
+      "disc_number": 1,
+      "duration_ms": 240065,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "GX3HH2117985"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2rFkzW4c0QgPlh7Lstg8x8"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2rFkzW4c0QgPlh7Lstg8x8",
+      "id": "2rFkzW4c0QgPlh7Lstg8x8",
+      "is_local": false,
+      "name": "Heart-to-Heart",
+      "popularity": 30,
+      "preview_url": "https://p.scdn.co/mp3-preview/9eed73149ee8d7b04f14b352d2f4f383e7f69b49?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:2rFkzW4c0QgPlh7Lstg8x8"
+    }
